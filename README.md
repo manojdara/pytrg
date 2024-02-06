@@ -1,2 +1,3 @@
 # pytrg
-This is a Python Project named Pytrg.
+This is a Python Project named Pytrgs....
+Added new files to repo
